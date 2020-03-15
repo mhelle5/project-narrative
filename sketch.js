@@ -108,7 +108,7 @@ if (font === 'Bellota'){
 }else if(font === 'Dancing Script'){
   textFont(myFontDance);
 }else if (font === 'Marker'){
-  //textFont(myFontMarker);
+  textFont(myFontMarker);
 }else if (font === 'Indie Flower'){
   textFont(myFontIndie);
 }
